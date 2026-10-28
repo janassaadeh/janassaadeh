@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=200&section=header&text=Jana%20Saadeh&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%C2%B7%20Mobile%20Software%20Engineer&descSize=18&descAlignY=60" alt="header" width="100%"/>
 
 <a href="https://github.com/janassaadeh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=9B7ACB&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jana+%F0%9F%91%8B;I+build+thoughtful+mobile+experiences+%F0%9F%93%B1;I+write+scalable+backends+%E2%9A%99%EF%B8%8F;I'm+exploring+on-device+AI+%F0%9F%A7%A0;Open+to+remote+%26+relocation+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=9B7ACB&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jana+%F0%9F%91%8B;I+build+thoughtful+mobile+experiences+%F0%9F%93%B1;I+write+scalable+backends+%E2%9A%99%EF%B8%8F;I'm+exploring+on-device+AI+%F0%9F%A7%A0;" alt="Typing SVG" />
 </a>
 
 <br/>
