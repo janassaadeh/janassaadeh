@@ -123,18 +123,6 @@ flowchart LR
   </tr>
 </table>
 
----
-
-### ✦ GitHub at a glance
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=janassaadeh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9B7ACB&icon_color=B77CB5&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janassaadeh&layout=compact&hide_border=true&bg_color=0d1117&title_color=9B7ACB&text_color=c9d1d9" alt="Top languages" />
-
-</div>
-
----
 
 <details>
 <summary><b>✦ Fun facts (click to open)</b></summary>
