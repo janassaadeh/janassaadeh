@@ -92,49 +92,7 @@ flowchart LR
 
 </div>
 
----
 
-### ✦ Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌿 <a href="https://github.com/janassaadeh/kora-ai">Kora AI</a></h4>
-      <p>Privacy-first wellness app with <b>on-device speech emotion recognition</b>. Your voice never leaves your phone.</p>
-      <sub><code>Flutter</code> · <code>BLoC</code> · <code>TensorFlow Lite</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⛽ <a href="https://github.com/janassaadeh/arco-energies">Arco Energies</a></h4>
-      <p>Fuel station management and customer loyalty system, built for a <b>real client</b>.</p>
-      <sub><code>Flutter</code> · <code>Spring Boot</code> · <code>MongoDB</code> · <code>NFC</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎵 <a href="https://github.com/janassaadeh/music-app-frontend">Music App: Frontend</a></h4>
-      <p>Streaming app with playlists, audio playback, and artist discovery.</p>
-      <sub><code>Flutter</code> · <code>Dart</code> · <code>REST APIs</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎶 <a href="https://github.com/janassaadeh/mymusic-app-backend">Music App: Backend</a></h4>
-      <p>Music platform APIs and MVC dashboards with a layered architecture.</p>
-      <sub><code>C#</code> · <code>ASP.NET Core</code> · <code>SQL Server</code></sub>
-    </td>
-  </tr>
-</table>
-
-
-<details>
-<summary><b>✦ Fun facts (click to open)</b></summary>
-
-<br/>
-
-- 🔄 I think in widgets: most problems look like a tree to me
-- 🔒 I care a lot about privacy, which is why I love on-device AI
-- 🧩 I enjoy the full picture: from the UI pixel to the database row
-- ☕ Hot reload is my favorite feature of all time
-
-</details>
 
 ---
 
